@@ -3,3 +3,8 @@
     background-color: #4262a9;
     display: inline-block;
 }   
+
+.logoMessi {
+    filter: drop-shadow(2px 4px 6px lightblue);
+    height: 500px;
+}
